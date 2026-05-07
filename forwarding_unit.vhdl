@@ -18,7 +18,7 @@ end forwarding_unit;
 architecture Behavioral of forwarding_unit is
 
 begin
-    process(ex_mem_reg_write, mem_wb_mem_read, mem_wb_load_addr, ex_mem_rd, mem_wb_rd, id_ex_rs1 -- any others?)
+    process(ex_mem_reg_write, mem_wb_mem_read, mem_wb_load_addr, ex_mem_rd, mem_wb_rd, id_ex_rs1) -- any others?)
 begin
     -- mux to select alu input A (with forwarding)
     --    mux_select_A
