@@ -1,0 +1,17 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/ece485_final_cadet_stage4/alu.vhdl,1777646695,vhdl,,,,alu,,,,,,,,
+D:/ece485_final_cadet_stage4/alu_control.vhdl,1777646695,vhdl,,,,alu_control,,,,,,,,
+D:/ece485_final_cadet_stage4/control_unit.vhdl,1777646695,vhdl,,,,control_unit,,,,,,,,
+D:/ece485_final_cadet_stage4/data_mem.vhdl,1777646695,vhdl,,,,data_mem,,,,,,,,
+D:/ece485_final_cadet_stage4/ece485_final_cadet_stage4.srcs/sources_1/imports/ece485_final_cadet_stage3/instr_mem.vhdl,1778190665,vhdl,,,,instr_mem,,,,,,,,
+D:/ece485_final_cadet_stage4/forwarding_unit.vhdl,1778164176,vhdl,,,,forwarding_unit,,,,,,,,
+D:/ece485_final_cadet_stage4/hazard_detection_unit.vhdl,1778174274,vhdl,,,,hazard_detection_unit,,,,,,,,
+D:/ece485_final_cadet_stage4/immediate_generator.vhdl,1777646695,vhdl,,,,immediate_generator,,,,,,,,
+D:/ece485_final_cadet_stage4/pc.vhdl,1777646695,vhdl,,,,pc_live,,,,,,,,
+D:/ece485_final_cadet_stage4/pipeline_registers.vhdl,1778174229,vhdl,,,,pipeline_registers,,,,,,,,
+D:/ece485_final_cadet_stage4/reg_file.vhdl,1777646695,vhdl,,,,reg_file,,,,,,,,
+D:/ece485_final_cadet_stage4/riscv_pipeline.vhdl,1778190524,vhdl,,,,riscv_pipeline,,,,,,,,
+D:/ece485_final_cadet_stage4/tb_riscv_pipeline.vhdl,1778123069,vhdl,,,,tb_riscv_pipeline,,,,,,,,
